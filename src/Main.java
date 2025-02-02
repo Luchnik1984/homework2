@@ -54,7 +54,7 @@ public class Main {
         System.out.println ("всего работников в компании - "+ totalWorkers+ " человек");
         // задание №8.2
         totalWorkers = totalWorkers + 94;
-        totalWorkTime = totalWorkTime*0 + totalWorkers*onePersonWorkTime ;
+        totalWorkTime = totalWorkers*onePersonWorkTime ;
         System.out.println ("Если в компании работает " + totalWorkers + " человек, то всего " + totalWorkTime + " часов работы может быть поделено между сотрудниками");
 
 
